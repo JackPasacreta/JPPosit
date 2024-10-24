@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    img {
+      border: 5px solid #555;
+      cursor: pointer; /* Change cursor to pointer when hovering over the image */
+    }
+  </style>
+  <title>Play Audio on Image Click</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+<!-- Cool -->
+<p>Here are a few things about me</p>
+<p>I am:</p>
+<ul> 
+  <li>Orange</li>
+  <li>Funny</li>
+  <li>A lover of lasagna</li>
+  <li>Lazy</li>
+  <li>Sarcastic</li>
+  <li>Cynical</li>
+</ul>
+
+
+<hr>
+<h2>Acting Work</h2>
+<p>I am also a famous actor and have been in many movies and TV shows</p>
+<p>Below is a list of a few of my works:</p>
+<ul> 
+  <li><a href="https://www.imdb.com/title/tt5779228/">The Garfield Movie</a>
+</li>
+  <li><a href="https://www.imdb.com/title/tt1389762/?ref_=ls_t_15">Garfield's Pet Force</a></li>
+  <li><a href="https://www.imdb.com/title/tt15358256/?ref_=ls_t_16">The Garfield Show: All You Need is Love (and Pasta)</a></li>
+  <li><a href="https://www.imdb.com/title/tt1059793/?ref_=ls_t_13">Garfield Gets Real</a></li>
+</ul>
+</div>
